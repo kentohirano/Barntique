@@ -1,0 +1,11 @@
+.link {
+	font-family: 'Libre Baskerville', serif;
+	font-weight: bold;
+	color: rgb(80,80,80);
+	padding-left: 20px;
+	margin: 0px auto;
+}
+
+.link: hover{
+	color: #EBB03E
+}
